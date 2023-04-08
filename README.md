@@ -32,10 +32,10 @@ I am a person who is always curious and tries new things related to the world of
 ## About Me  
 <table><tr><td valign="top" width="50%">
 
-- 📚 I’m currently studying at UPN "Veteran" Jawa Timur  
+- 📚 I’m currently studying at UPN "Veteran" Jawa Timur and Bangkit Academy 2023 Machine Learning Path 
   
 
-- 🌐 I’m currently learning ReactJS and Typescript  
+- 🌐 I’m currently learning Machine Learning  
   
 
 - ❓ Ask me about anything related to technologies, i am so interested.  
