@@ -23,7 +23,7 @@
 
 
 ### Glad to see you here!  
-I am a person who is always curious and tries new things related to the world of technology, especially in the field of websites, UI/UX and data science.  
+I am a person who is always curious and tries new things related to the world of technology, especially in the field of Websites and DevOps.  
   
 
 <br/>  
